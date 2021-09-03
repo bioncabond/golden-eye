@@ -1,4 +1,4 @@
-# Welcome to Golden-Eye Spyname Generator 
+# Welcome to Golden-Eye Spy Name Generator 
 
 This is where you get your spy name! 
 
